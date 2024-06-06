@@ -1,0 +1,14 @@
+C:\Users\Aprendiz\Desktop\Proyecto-1\Ejercicio_20\obj\Debug\net8.0\Ejercicio_20.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aprendiz\Desktop\Proyecto-1\Ejercicio_20\obj\Debug\net8.0\Ejercicio_20.AssemblyInfoInputs.cache
+C:\Users\Aprendiz\Desktop\Proyecto-1\Ejercicio_20\obj\Debug\net8.0\Ejercicio_20.AssemblyInfo.cs
+C:\Users\Aprendiz\Desktop\Proyecto-1\Ejercicio_20\obj\Debug\net8.0\Ejercicio_20.csproj.CoreCompileInputs.cache
+C:\Users\Aprendiz\Desktop\Proyecto-1\Ejercicio_20\bin\Debug\net8.0\Ejercicio_20.exe
+C:\Users\Aprendiz\Desktop\Proyecto-1\Ejercicio_20\bin\Debug\net8.0\Ejercicio_20.deps.json
+C:\Users\Aprendiz\Desktop\Proyecto-1\Ejercicio_20\bin\Debug\net8.0\Ejercicio_20.runtimeconfig.json
+C:\Users\Aprendiz\Desktop\Proyecto-1\Ejercicio_20\bin\Debug\net8.0\Ejercicio_20.dll
+C:\Users\Aprendiz\Desktop\Proyecto-1\Ejercicio_20\bin\Debug\net8.0\Ejercicio_20.pdb
+C:\Users\Aprendiz\Desktop\Proyecto-1\Ejercicio_20\obj\Debug\net8.0\Ejercicio_20.dll
+C:\Users\Aprendiz\Desktop\Proyecto-1\Ejercicio_20\obj\Debug\net8.0\refint\Ejercicio_20.dll
+C:\Users\Aprendiz\Desktop\Proyecto-1\Ejercicio_20\obj\Debug\net8.0\Ejercicio_20.pdb
+C:\Users\Aprendiz\Desktop\Proyecto-1\Ejercicio_20\obj\Debug\net8.0\Ejercicio_20.genruntimeconfig.cache
+C:\Users\Aprendiz\Desktop\Proyecto-1\Ejercicio_20\obj\Debug\net8.0\ref\Ejercicio_20.dll

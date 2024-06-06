@@ -1,0 +1,14 @@
+C:\Users\Aprendiz\Desktop\Proyecto-1\Ejercicio_27\obj\Debug\net8.0\Ejercicio_27.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aprendiz\Desktop\Proyecto-1\Ejercicio_27\obj\Debug\net8.0\Ejercicio_27.AssemblyInfoInputs.cache
+C:\Users\Aprendiz\Desktop\Proyecto-1\Ejercicio_27\obj\Debug\net8.0\Ejercicio_27.AssemblyInfo.cs
+C:\Users\Aprendiz\Desktop\Proyecto-1\Ejercicio_27\obj\Debug\net8.0\Ejercicio_27.csproj.CoreCompileInputs.cache
+C:\Users\Aprendiz\Desktop\Proyecto-1\Ejercicio_27\bin\Debug\net8.0\Ejercicio_27.exe
+C:\Users\Aprendiz\Desktop\Proyecto-1\Ejercicio_27\bin\Debug\net8.0\Ejercicio_27.deps.json
+C:\Users\Aprendiz\Desktop\Proyecto-1\Ejercicio_27\bin\Debug\net8.0\Ejercicio_27.runtimeconfig.json
+C:\Users\Aprendiz\Desktop\Proyecto-1\Ejercicio_27\bin\Debug\net8.0\Ejercicio_27.dll
+C:\Users\Aprendiz\Desktop\Proyecto-1\Ejercicio_27\bin\Debug\net8.0\Ejercicio_27.pdb
+C:\Users\Aprendiz\Desktop\Proyecto-1\Ejercicio_27\obj\Debug\net8.0\Ejercicio_27.dll
+C:\Users\Aprendiz\Desktop\Proyecto-1\Ejercicio_27\obj\Debug\net8.0\refint\Ejercicio_27.dll
+C:\Users\Aprendiz\Desktop\Proyecto-1\Ejercicio_27\obj\Debug\net8.0\Ejercicio_27.pdb
+C:\Users\Aprendiz\Desktop\Proyecto-1\Ejercicio_27\obj\Debug\net8.0\Ejercicio_27.genruntimeconfig.cache
+C:\Users\Aprendiz\Desktop\Proyecto-1\Ejercicio_27\obj\Debug\net8.0\ref\Ejercicio_27.dll

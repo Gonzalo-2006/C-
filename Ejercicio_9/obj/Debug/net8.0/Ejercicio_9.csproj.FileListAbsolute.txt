@@ -1,0 +1,14 @@
+C:\Users\Aprendiz\Desktop\Proyecto-1\Ejercicio_9\obj\Debug\net8.0\Ejercicio_9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aprendiz\Desktop\Proyecto-1\Ejercicio_9\obj\Debug\net8.0\Ejercicio_9.AssemblyInfoInputs.cache
+C:\Users\Aprendiz\Desktop\Proyecto-1\Ejercicio_9\obj\Debug\net8.0\Ejercicio_9.AssemblyInfo.cs
+C:\Users\Aprendiz\Desktop\Proyecto-1\Ejercicio_9\obj\Debug\net8.0\Ejercicio_9.csproj.CoreCompileInputs.cache
+C:\Users\Aprendiz\Desktop\Proyecto-1\Ejercicio_9\bin\Debug\net8.0\Ejercicio_9.exe
+C:\Users\Aprendiz\Desktop\Proyecto-1\Ejercicio_9\bin\Debug\net8.0\Ejercicio_9.deps.json
+C:\Users\Aprendiz\Desktop\Proyecto-1\Ejercicio_9\bin\Debug\net8.0\Ejercicio_9.runtimeconfig.json
+C:\Users\Aprendiz\Desktop\Proyecto-1\Ejercicio_9\bin\Debug\net8.0\Ejercicio_9.dll
+C:\Users\Aprendiz\Desktop\Proyecto-1\Ejercicio_9\bin\Debug\net8.0\Ejercicio_9.pdb
+C:\Users\Aprendiz\Desktop\Proyecto-1\Ejercicio_9\obj\Debug\net8.0\Ejercicio_9.dll
+C:\Users\Aprendiz\Desktop\Proyecto-1\Ejercicio_9\obj\Debug\net8.0\refint\Ejercicio_9.dll
+C:\Users\Aprendiz\Desktop\Proyecto-1\Ejercicio_9\obj\Debug\net8.0\Ejercicio_9.pdb
+C:\Users\Aprendiz\Desktop\Proyecto-1\Ejercicio_9\obj\Debug\net8.0\Ejercicio_9.genruntimeconfig.cache
+C:\Users\Aprendiz\Desktop\Proyecto-1\Ejercicio_9\obj\Debug\net8.0\ref\Ejercicio_9.dll

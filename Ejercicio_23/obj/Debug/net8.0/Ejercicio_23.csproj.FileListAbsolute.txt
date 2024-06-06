@@ -1,0 +1,14 @@
+C:\Users\Aprendiz\Desktop\Proyecto-1\Ejercicio_23\obj\Debug\net8.0\Ejercicio_23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aprendiz\Desktop\Proyecto-1\Ejercicio_23\obj\Debug\net8.0\Ejercicio_23.AssemblyInfoInputs.cache
+C:\Users\Aprendiz\Desktop\Proyecto-1\Ejercicio_23\obj\Debug\net8.0\Ejercicio_23.AssemblyInfo.cs
+C:\Users\Aprendiz\Desktop\Proyecto-1\Ejercicio_23\obj\Debug\net8.0\Ejercicio_23.csproj.CoreCompileInputs.cache
+C:\Users\Aprendiz\Desktop\Proyecto-1\Ejercicio_23\bin\Debug\net8.0\Ejercicio_23.exe
+C:\Users\Aprendiz\Desktop\Proyecto-1\Ejercicio_23\bin\Debug\net8.0\Ejercicio_23.deps.json
+C:\Users\Aprendiz\Desktop\Proyecto-1\Ejercicio_23\bin\Debug\net8.0\Ejercicio_23.runtimeconfig.json
+C:\Users\Aprendiz\Desktop\Proyecto-1\Ejercicio_23\bin\Debug\net8.0\Ejercicio_23.dll
+C:\Users\Aprendiz\Desktop\Proyecto-1\Ejercicio_23\bin\Debug\net8.0\Ejercicio_23.pdb
+C:\Users\Aprendiz\Desktop\Proyecto-1\Ejercicio_23\obj\Debug\net8.0\Ejercicio_23.dll
+C:\Users\Aprendiz\Desktop\Proyecto-1\Ejercicio_23\obj\Debug\net8.0\refint\Ejercicio_23.dll
+C:\Users\Aprendiz\Desktop\Proyecto-1\Ejercicio_23\obj\Debug\net8.0\Ejercicio_23.pdb
+C:\Users\Aprendiz\Desktop\Proyecto-1\Ejercicio_23\obj\Debug\net8.0\Ejercicio_23.genruntimeconfig.cache
+C:\Users\Aprendiz\Desktop\Proyecto-1\Ejercicio_23\obj\Debug\net8.0\ref\Ejercicio_23.dll

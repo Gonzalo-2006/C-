@@ -1,0 +1,14 @@
+C:\Users\Aprendiz\Desktop\Proyecto-1\Ejercicio_18\obj\Debug\net8.0\Ejercicio_18.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aprendiz\Desktop\Proyecto-1\Ejercicio_18\obj\Debug\net8.0\Ejercicio_18.AssemblyInfoInputs.cache
+C:\Users\Aprendiz\Desktop\Proyecto-1\Ejercicio_18\obj\Debug\net8.0\Ejercicio_18.AssemblyInfo.cs
+C:\Users\Aprendiz\Desktop\Proyecto-1\Ejercicio_18\obj\Debug\net8.0\Ejercicio_18.csproj.CoreCompileInputs.cache
+C:\Users\Aprendiz\Desktop\Proyecto-1\Ejercicio_18\bin\Debug\net8.0\Ejercicio_18.exe
+C:\Users\Aprendiz\Desktop\Proyecto-1\Ejercicio_18\bin\Debug\net8.0\Ejercicio_18.deps.json
+C:\Users\Aprendiz\Desktop\Proyecto-1\Ejercicio_18\bin\Debug\net8.0\Ejercicio_18.runtimeconfig.json
+C:\Users\Aprendiz\Desktop\Proyecto-1\Ejercicio_18\bin\Debug\net8.0\Ejercicio_18.dll
+C:\Users\Aprendiz\Desktop\Proyecto-1\Ejercicio_18\bin\Debug\net8.0\Ejercicio_18.pdb
+C:\Users\Aprendiz\Desktop\Proyecto-1\Ejercicio_18\obj\Debug\net8.0\Ejercicio_18.dll
+C:\Users\Aprendiz\Desktop\Proyecto-1\Ejercicio_18\obj\Debug\net8.0\refint\Ejercicio_18.dll
+C:\Users\Aprendiz\Desktop\Proyecto-1\Ejercicio_18\obj\Debug\net8.0\Ejercicio_18.pdb
+C:\Users\Aprendiz\Desktop\Proyecto-1\Ejercicio_18\obj\Debug\net8.0\Ejercicio_18.genruntimeconfig.cache
+C:\Users\Aprendiz\Desktop\Proyecto-1\Ejercicio_18\obj\Debug\net8.0\ref\Ejercicio_18.dll

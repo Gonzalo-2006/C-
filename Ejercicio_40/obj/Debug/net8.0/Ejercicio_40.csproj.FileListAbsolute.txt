@@ -1,0 +1,14 @@
+D:\Proyecto-1\Ejercicio_40\bin\Debug\net8.0\Ejercicio_40.exe
+D:\Proyecto-1\Ejercicio_40\bin\Debug\net8.0\Ejercicio_40.deps.json
+D:\Proyecto-1\Ejercicio_40\bin\Debug\net8.0\Ejercicio_40.runtimeconfig.json
+D:\Proyecto-1\Ejercicio_40\bin\Debug\net8.0\Ejercicio_40.dll
+D:\Proyecto-1\Ejercicio_40\bin\Debug\net8.0\Ejercicio_40.pdb
+D:\Proyecto-1\Ejercicio_40\obj\Debug\net8.0\Ejercicio_40.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyecto-1\Ejercicio_40\obj\Debug\net8.0\Ejercicio_40.AssemblyInfoInputs.cache
+D:\Proyecto-1\Ejercicio_40\obj\Debug\net8.0\Ejercicio_40.AssemblyInfo.cs
+D:\Proyecto-1\Ejercicio_40\obj\Debug\net8.0\Ejercicio_40.csproj.CoreCompileInputs.cache
+D:\Proyecto-1\Ejercicio_40\obj\Debug\net8.0\Ejercicio_40.dll
+D:\Proyecto-1\Ejercicio_40\obj\Debug\net8.0\refint\Ejercicio_40.dll
+D:\Proyecto-1\Ejercicio_40\obj\Debug\net8.0\Ejercicio_40.pdb
+D:\Proyecto-1\Ejercicio_40\obj\Debug\net8.0\Ejercicio_40.genruntimeconfig.cache
+D:\Proyecto-1\Ejercicio_40\obj\Debug\net8.0\ref\Ejercicio_40.dll

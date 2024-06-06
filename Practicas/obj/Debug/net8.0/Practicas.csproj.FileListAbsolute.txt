@@ -1,0 +1,14 @@
+C:\Users\Aprendiz\Desktop\Proyecto-1\Practicas\obj\Debug\net8.0\Practicas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aprendiz\Desktop\Proyecto-1\Practicas\obj\Debug\net8.0\Practicas.AssemblyInfoInputs.cache
+C:\Users\Aprendiz\Desktop\Proyecto-1\Practicas\obj\Debug\net8.0\Practicas.AssemblyInfo.cs
+C:\Users\Aprendiz\Desktop\Proyecto-1\Practicas\obj\Debug\net8.0\Practicas.csproj.CoreCompileInputs.cache
+C:\Users\Aprendiz\Desktop\Proyecto-1\Practicas\bin\Debug\net8.0\Practicas.exe
+C:\Users\Aprendiz\Desktop\Proyecto-1\Practicas\bin\Debug\net8.0\Practicas.deps.json
+C:\Users\Aprendiz\Desktop\Proyecto-1\Practicas\bin\Debug\net8.0\Practicas.runtimeconfig.json
+C:\Users\Aprendiz\Desktop\Proyecto-1\Practicas\bin\Debug\net8.0\Practicas.dll
+C:\Users\Aprendiz\Desktop\Proyecto-1\Practicas\bin\Debug\net8.0\Practicas.pdb
+C:\Users\Aprendiz\Desktop\Proyecto-1\Practicas\obj\Debug\net8.0\Practicas.dll
+C:\Users\Aprendiz\Desktop\Proyecto-1\Practicas\obj\Debug\net8.0\refint\Practicas.dll
+C:\Users\Aprendiz\Desktop\Proyecto-1\Practicas\obj\Debug\net8.0\Practicas.pdb
+C:\Users\Aprendiz\Desktop\Proyecto-1\Practicas\obj\Debug\net8.0\Practicas.genruntimeconfig.cache
+C:\Users\Aprendiz\Desktop\Proyecto-1\Practicas\obj\Debug\net8.0\ref\Practicas.dll

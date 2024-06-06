@@ -1,0 +1,14 @@
+D:\Proyecto-1\Ejercicio_39\obj\Debug\net8.0\Ejercicio_39.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyecto-1\Ejercicio_39\obj\Debug\net8.0\Ejercicio_39.AssemblyInfoInputs.cache
+D:\Proyecto-1\Ejercicio_39\obj\Debug\net8.0\Ejercicio_39.AssemblyInfo.cs
+D:\Proyecto-1\Ejercicio_39\obj\Debug\net8.0\Ejercicio_39.csproj.CoreCompileInputs.cache
+D:\Proyecto-1\Ejercicio_39\bin\Debug\net8.0\Ejercicio_39.exe
+D:\Proyecto-1\Ejercicio_39\bin\Debug\net8.0\Ejercicio_39.deps.json
+D:\Proyecto-1\Ejercicio_39\bin\Debug\net8.0\Ejercicio_39.runtimeconfig.json
+D:\Proyecto-1\Ejercicio_39\bin\Debug\net8.0\Ejercicio_39.dll
+D:\Proyecto-1\Ejercicio_39\bin\Debug\net8.0\Ejercicio_39.pdb
+D:\Proyecto-1\Ejercicio_39\obj\Debug\net8.0\Ejercicio_39.dll
+D:\Proyecto-1\Ejercicio_39\obj\Debug\net8.0\refint\Ejercicio_39.dll
+D:\Proyecto-1\Ejercicio_39\obj\Debug\net8.0\Ejercicio_39.pdb
+D:\Proyecto-1\Ejercicio_39\obj\Debug\net8.0\Ejercicio_39.genruntimeconfig.cache
+D:\Proyecto-1\Ejercicio_39\obj\Debug\net8.0\ref\Ejercicio_39.dll
